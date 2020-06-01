@@ -5,8 +5,8 @@
 This is a tutorial presentation for _Data Management_, a course in National Cheng Kung University, Taiwan. We demonstrate how instructors can use R shiny to teach fundamental Statistics and basic R techniques, such as data wrangling and data visualization.
 
 ### Author:
-  - name: <u> 廖傑恩 Jay Liao </u> | jay.chiehen[at]gmail.com | Department of Psychology | NCKU
-  - name: <u> 蘇柏純 Teresa Su </u> | kyotoigo[at]gmail.com | Institute of Education | NCKU
+  - <u> 廖傑恩 Jay Liao </u> | jay.chiehen[at]gmail.com | Department of Psychology | NCKU
+  - <u> 蘇柏純 Teresa Su </u> | kyotoigo[at]gmail.com | Institute of Education | NCKU
 
 ### Description:
 
@@ -18,7 +18,6 @@ This is a tutorial presentation for _Data Management_, a course in National Chen
 
 - `README.md`: This file.
 - `DataM_tutorial_RShiny_0601.Rmd`: The code file of the shiny web app slides
-- `.html`: The output file of the shiny web app slides
 
 #### Images (Please do not move the path of any document or image.)
 

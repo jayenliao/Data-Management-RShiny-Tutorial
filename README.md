@@ -2,7 +2,7 @@
 
 ## A tutorial presentation for Data Management
 
-This is a tutorial presentation for _Data Management_, a course in National Cheng Kung University, Taiwan. We demonstrate how instructors can use R shiny to teach fundamental Statistics and basic R techniques, such as data wrangling and data visualization.
+This is a tutorial presentation for _Data Management_, a course in National Cheng Kung University (NCKU), Taiwan. We demonstrate how instructors can use R shiny to teach fundamental Statistics and basic R techniques, such as data wrangling and data visualization.
 
 ### Author:
   - <u> 廖傑恩 Jay Liao </u> | jay.chiehen[at]gmail.com | Department of Psychology | NCKU

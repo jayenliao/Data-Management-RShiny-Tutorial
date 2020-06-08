@@ -36,7 +36,7 @@ Directly open https://jaychiehenliao.shinyapps.io/DataM_tutorial_RShiny_0601/ th
 
 2. Install all required packages:
 
-```
+```{r}
 install.packages('knitr')
 install.packages('shiny')
 install.packages('dplyr')
